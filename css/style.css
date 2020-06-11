@@ -29,6 +29,10 @@ h5,
 h6 {
 	color: #333333;
 }
+
+.font-style{
+	color: red;
+}
 h1 {
 	font-size: 38px;
 	font-weight: 700;
